@@ -326,7 +326,8 @@ Other reductions
 
      In [1]: !cat data/populations.txt
 
-   First, load the data into a NumPy array:
+     In windows system, you can use !type instead of !cat.
+     First, load the data into a NumPy array:
 
    .. sourcecode:: pycon
 
